@@ -160,5 +160,77 @@
       "role": "author",
       "isPublished": false
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "role": "editor",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "username": "michael_johnson",
+      "email": "michael.johnson@example.com",
+      "role": "author",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "username": "emily_brown",
+      "email": "emily.brown@example.com",
+      "role": "editor",
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "username": "david_wilson",
+      "email": "david.wilson@example.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "username": "sarah_thompson",
+      "email": "sarah.thompson@example.com",
+      "role": "author",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "username": "chris_evans",
+      "email": "chris.evans@example.com",
+      "role": "editor",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "username": "sophia_lee",
+      "email": "sophia.lee@example.com",
+      "role": "author",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "username": "daniel_martinez",
+      "email": "daniel.martinez@example.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "username": "olivia_harris",
+      "email": "olivia.harris@example.com",
+      "role": "editor",
+      "status": "inactive"
+    }
   ]
 }

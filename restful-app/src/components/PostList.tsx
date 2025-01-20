@@ -11,7 +11,7 @@ const PostList: React.FC = () => {
     const fetchData = async () => {
       try {
         setTimeout(async () => {
-          const response = await fetch("http://localhost:3000/posts/userId=1");
+          const response = await fetch("http://localhost:3000/posts");
 
           if (!response.ok) {
             throw new Error(`HTTP Error!, Status: ${response.status}`);
