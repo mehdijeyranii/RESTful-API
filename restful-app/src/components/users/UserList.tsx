@@ -7,7 +7,6 @@ const UserList: React.FC = () => {
   const [users, setUsers] = useState<User[]>([]);
 
   console.log(users);
-  
 
   useEffect(() => {
     const fetchData = async () => {
@@ -20,10 +19,10 @@ const UserList: React.FC = () => {
     };
 
     fetchData();
-  }, []);
+  }, [users]);
 
   console.log(users);
-  
+
   return (
     <div>
       <h1>APIs Users</h1>
