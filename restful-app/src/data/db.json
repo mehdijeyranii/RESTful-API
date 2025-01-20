@@ -1,0 +1,164 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "description": "Learn the basics of JavaScript programming language.",
+      "author": "John Doe",
+      "role": "admin",
+      "isPublished": true
+    },
+    {
+      "id": 2,
+      "title": "Understanding React Hooks",
+      "description": "A deep dive into useState and useEffect hooks in React.",
+      "author": "Jane Smith",
+      "role": "editor",
+      "isPublished": false
+    },
+    {
+      "id": 3,
+      "title": "Mastering TypeScript",
+      "description": "A comprehensive guide to TypeScript for JavaScript developers.",
+      "author": "Michael Johnson",
+      "role": "author",
+      "isPublished": true
+    },
+    {
+      "id": 4,
+      "title": "Node.js for Beginners",
+      "description": "Getting started with Node.js and server-side JavaScript.",
+      "author": "Emily Brown",
+      "role": "editor",
+      "isPublished": false
+    },
+    {
+      "id": 5,
+      "title": "RESTful API Design",
+      "description": "Best practices for designing and building RESTful APIs.",
+      "author": "David Wilson",
+      "role": "admin",
+      "isPublished": true
+    },
+    {
+      "id": 6,
+      "title": "GraphQL vs REST",
+      "description": "A comparison between GraphQL and REST APIs.",
+      "author": "Sarah Thompson",
+      "role": "author",
+      "isPublished": false
+    },
+    {
+      "id": 7,
+      "title": "CSS Grid and Flexbox",
+      "description": "How to use CSS Grid and Flexbox for modern layouts.",
+      "author": "Chris Evans",
+      "role": "editor",
+      "isPublished": true
+    },
+    {
+      "id": 8,
+      "title": "Deploying React Apps",
+      "description": "Step-by-step guide to deploying React applications.",
+      "author": "Sophia Lee",
+      "role": "author",
+      "isPublished": false
+    },
+    {
+      "id": 9,
+      "title": "JavaScript ES6 Features",
+      "description": "An overview of the latest JavaScript ES6 features.",
+      "author": "Daniel Martinez",
+      "role": "admin",
+      "isPublished": true
+    },
+    {
+      "id": 10,
+      "title": "MongoDB Basics",
+      "description": "Learn how to use MongoDB for storing and managing data.",
+      "author": "Olivia Harris",
+      "role": "editor",
+      "isPublished": false
+    },
+    {
+      "id": 11,
+      "title": "Express.js Fundamentals",
+      "description": "Building web applications using Express.js framework.",
+      "author": "Matthew Clark",
+      "role": "author",
+      "isPublished": true
+    },
+    {
+      "id": 12,
+      "title": "JWT Authentication",
+      "description": "Implementing authentication using JWT in Node.js.",
+      "author": "Isabella Walker",
+      "role": "admin",
+      "isPublished": false
+    },
+    {
+      "id": 13,
+      "title": "State Management in React",
+      "description": "Understanding Redux and Context API for state management.",
+      "author": "Ethan Young",
+      "role": "editor",
+      "isPublished": true
+    },
+    {
+      "id": 14,
+      "title": "Testing in JavaScript",
+      "description": "An introduction to unit testing in JavaScript.",
+      "author": "Mia Robinson",
+      "role": "author",
+      "isPublished": false
+    },
+    {
+      "id": 15,
+      "title": "Web Performance Optimization",
+      "description": "Techniques to improve website performance.",
+      "author": "Alexander Scott",
+      "role": "admin",
+      "isPublished": true
+    },
+    {
+      "id": 16,
+      "title": "Building a MERN Stack App",
+      "description": "How to build a full-stack application using MERN stack.",
+      "author": "Charlotte White",
+      "role": "editor",
+      "isPublished": false
+    },
+    {
+      "id": 17,
+      "title": "Docker for Developers",
+      "description": "Introduction to Docker and containerization.",
+      "author": "Liam King",
+      "role": "author",
+      "isPublished": true
+    },
+    {
+      "id": 18,
+      "title": "Version Control with Git",
+      "description": "Using Git for version control and collaboration.",
+      "author": "Emma Adams",
+      "role": "admin",
+      "isPublished": false
+    },
+    {
+      "id": 19,
+      "title": "Next.js for Beginners",
+      "description": "A guide to getting started with Next.js framework.",
+      "author": "Benjamin Carter",
+      "role": "editor",
+      "isPublished": true
+    },
+    {
+      "id": 20,
+      "title": "Introduction to WebSockets",
+      "description": "Real-time communication using WebSockets.",
+      "author": "Amelia Baker",
+      "role": "author",
+      "isPublished": false
+    }
+  ]
+}
